@@ -1,16 +1,25 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
+<h3 align="center">📈 Stats 📈</h3> 
+<br>
 
-<!--
-**fdmsantos/fdmsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+<img style="max-width: 100%;" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fdmsantos&show_icons=true&theme=blue-green&custom_title=My+GitHub+Stats">
+<img style="max-width: 100%;" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fdmsantos&theme=blue-green&langs_count=5&custom_title=My+Programming+Languages&layout=compact"
+</p>
+<hr> 
 
-Here are some ideas to get you started:
+<h3 align="center">👁️ Visitors 👁️</h3><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img style="max-width: 100%;" src="https://profile-counter.glitch.me/fdmsantos/count.svg">
+</p>
+
+<hr> 
+<h3 align="left">Author of the following <code class="inlinecode">Terraform</code> module :</h3> 
+<ul>
+  <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-aws-kinesis-firehose">AWS Kinesis Firehose</a></b></i></li>
+</ul>
+</body>
+</html>
