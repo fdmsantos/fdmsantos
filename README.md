@@ -20,7 +20,7 @@
 <h3 align="left">Author of the following <code class="inlinecode">Terraform</code> module :</h3> 
 <ul>
   <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-aws-kinesis-firehose">AWS Kinesis Firehose</a></b></i></li>
-  <li><i><b><a target="_blank" href="hhttps://github.com/fdmsantos/terraform-aws-opensearch-serverless">AWS Opensearch Serverless</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-aws-opensearch-serverless">AWS Opensearch Serverless</a></b></i></li>
 </ul>
 </body>
 </html>
