@@ -17,10 +17,16 @@
 </p>
 
 <hr> 
-<h3 align="left">Author of the following <code class="inlinecode">Terraform</code> module :</h3> 
+<h3 align="left">Author of the following AWS <code class="inlinecode">Terraform</code> modules :</h3> 
 <ul>
   <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-aws-kinesis-firehose">AWS Kinesis Firehose</a></b></i></li>
   <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-aws-opensearch-serverless">AWS Opensearch Serverless</a></b></i></li>
+</ul>
+
+<hr> 
+<h3 align="left">Author of the following Azure <code class="inlinecode">Terraform</code> modules :</h3> 
+<ul>
+  <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-azurerm-synapse">Azure Synapse</a></b></i></li>
   <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-azurerm-api-connections">Azure API Connections</a></b></i></li>
 </ul>
 </body>
