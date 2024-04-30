@@ -27,6 +27,7 @@
 <h3 align="left">Author of the following Azure <code class="inlinecode">Terraform</code> modules :</h3> 
 <ul>
   <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-azurerm-synapse">Azure Synapse</a></b></i></li>
+  <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-azurerm-logicapp">Azure Logic App</a></b></i></li>
   <li><i><b><a target="_blank" href="https://github.com/fdmsantos/terraform-azurerm-api-connections">Azure API Connections</a></b></i></li>
 </ul>
 </body>
